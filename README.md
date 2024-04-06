@@ -17,10 +17,14 @@ implement targeted strategies to improve retention and foster a supportive work 
 
 ##Data Understanding
 
-The survey data used in this analysis was collected by Salifort Motors from a sample of employees to gain insights into the reasons
+The survey data used in this analysis was collected by the HR department from a sample of employees to gain insights into the reasons
 behind turnover. The dataset includes information such as job title, department, number of projects, average monthly hours, and other
 relevant variables. Exploratory data analysis revealed patterns and trends within the dataset, highlighting potential predictors of
 employee turnover. Data limitations include the representativeness of the sample and the accuracy of self-reported survey responses.
+
+![salifort_features_explained](https://github.com/Pharmiliar/Salifort-Motors/assets/109634454/9e7a6ecc-38eb-4123-8da6-418854c2f326)
+
+The HR department collected the above 10 features from 14,999 employees. hence; 14,999 columns, 10 rows
 
 ##Modeling and Evaluation
 
