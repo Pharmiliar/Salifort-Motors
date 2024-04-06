@@ -1,5 +1,5 @@
 # Salifort-Motors
-*Google Advanced Data Analytics Capstone* _[see certificate]_(https://www.coursera.org/account/accomplishments/professional-cert/B22RFVSZGTV7)
+*Google Advanced Data Analytics Capstone* _[see certificate](https://www.coursera.org/account/accomplishments/professional-cert/B22RFVSZGTV7)_
 
 ##Project Overview
 
