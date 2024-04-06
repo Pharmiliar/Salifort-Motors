@@ -24,7 +24,7 @@ employee turnover. Data limitations include the representativeness of the sample
 
 ![salifort_features_explained](https://github.com/Pharmiliar/Salifort-Motors/assets/109634454/9e7a6ecc-38eb-4123-8da6-418854c2f326)
 
-The HR department collected the above 10 features from 14,999 employees. hence; 14,999 columns, 10 rows
+The variables collected by the HR department from 14,999 employees, and their descriptions. (10 columns; 14999 rows)
 
 ##Modeling and Evaluation
 
