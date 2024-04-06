@@ -24,7 +24,7 @@ employee turnover. Data limitations include the representativeness of the sample
 
 ![salifort_features_explained](https://github.com/Pharmiliar/Salifort-Motors/assets/109634454/9e7a6ecc-38eb-4123-8da6-418854c2f326)
 
-A Description of the variables collected by the HR department from about 14,999 employees. (10 columns; 14999 rows)
+A Description of the variables collected from about 14,999 employees. (10 columns; 14999 rows)
 
 ##Modeling and Evaluation
 
