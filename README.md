@@ -33,7 +33,7 @@ turnover, including job title, department, and average monthly hours.
 
 Barplot above shows the most relevant variables: ‘last_evaluation’, ‘number_project’,  ‘tenure’ and ‘overworked’.
 
-![random_forest](https://github.com/Pharmiliar/Salifort-Motors/assets/109634454/0ef66733-2ae8-4bb4-bfce-96ddb81637f1)
+![random_forest_2](https://github.com/Pharmiliar/Salifort-Motors/assets/109634454/e4cb16f5-47f1-41e8-9aa9-7e8ac2406ba9)
 
 In the random forest model above, `last_evaluation`, `tenure`, `number_project`, `overworked`, `salary_low`, and `work_accident` have the highest importance. These variables are most helpful in predicting the outcome variable, `left`.
 
